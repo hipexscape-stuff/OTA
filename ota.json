@@ -1,1 +1,16 @@
-   
+   {
+  "version": "2025-05-05 (PixelOS - Android 15.0)",
+  "date": "1746432117",
+  "variants": [
+    {
+      "name": "pixelos_arm64_bgN_erofs",
+      "size": "1853247268",
+      "url": "https://github.com/hipexscape-stuff/OTA/releases/download/20250505/pixelos_arm64_bgN_erofs-15.0-unofficial-20250505.img.xz"
+    },
+    {
+      "name": "pixelos_arm64_bgN_ext4",
+      "size": "1605051388",
+      "url": "https://github.com/hipexscape-stuff/OTA/releases/download/20250505/pixelos_arm64_bgN_ext4-15.0-unofficial-20250505.img.xz"
+    }
+  ]
+   }
